@@ -1,0 +1,9 @@
+{
+  "extends": ["warp/es6", "warp/module", "warp/node"],
+  "env": {
+    "jest": true
+  },
+  "rules": {
+    "max-len": 0
+  }
+}
