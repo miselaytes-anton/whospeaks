@@ -1,2 +1,4 @@
 /node_modules
 /training-results.json
+/audio-normalized
+/audio-preprocessed

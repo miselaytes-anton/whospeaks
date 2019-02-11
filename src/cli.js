@@ -78,10 +78,10 @@ switch(command) {
   default:
     console.log(`USAGE:
     first do:
-     ./src/cli.js train ./audio/train/
+     ./src/cli.js train [training .wav files dir]
     then either: 
-     ./src/cli.js recognize ./audio/test/F101_test_1.wav
+     ./src/cli.js recognize [.wav file path]
     or: 
-     ./src/cli.js test-performance ./audio/test
+     ./src/cli.js test-performance [test .wav files dir]
     `);
 }
