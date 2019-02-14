@@ -2,7 +2,7 @@
 
 Speaker recognition using Mel Frequency Cepstral Coefficients (MFCC) and Linde-Buzo-Gray (LBG) clustering algorithm.
 The implementation is based on [this matlab tutorial](http://www.ifp.illinois.edu/~minhdo/teaching/speaker_recognition/).
-It gives about **~ 65 %** of correct results using [this data set](http://www.openslr.org/22/).
+It gives about **~65%** of correct results using [this data set](http://www.openslr.org/22/).
 
 ## Prepare audio files
 
